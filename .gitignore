@@ -1,0 +1,5 @@
+node_modules
+
+# ignore all files in dist directory except .html files
+dist/*
+!dist/*.html
